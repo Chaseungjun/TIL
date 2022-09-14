@@ -11,8 +11,9 @@
 7. cat : 해당 하는 파일내용을 간단하게 출력
 8. ls : 현재 폴더에 있는 파일 목록 출력
 git add, git commit, git push, git status 
-:q, :q!, :w, :wq
+9. :q : 
+10. :q! : 수정한 파일내용을 저장하지 않고 종료
+11. :w : 저장
+12. :wq : 저장하고 종료
 i : 내용을 정할 수 있는 Insert mode
 ESC : Insert mode에서 normal mode로 돌아감
-
-
