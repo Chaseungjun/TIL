@@ -19,3 +19,11 @@ git add, git commit, git push, git status
 4. :wq : 저장하고 종료
 5. i : 내용을 정할 수 있는 Insert mode
 6. ESC : Insert mode에서 normal mode로 돌아감
+
+## branch
+1. git branch 브랜치이름 : 해당 이름의 branch 생성
+2. git switch 브랜치이름 : 해당 브랜치로 이동
+3. git branch -D 브랜치이름 : 브랜치 삭제
+4. git merge 브랜치이름 : 해당 브랜치를 가져와서 현재의 branch에 병합
+5. merge conflict : 동시에 같은 줄의 내용에 변화가 있을 때 발생
+6. git remote add remote이름 remote주소 : remote의 이름변경
