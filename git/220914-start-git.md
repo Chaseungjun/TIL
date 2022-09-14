@@ -1,6 +1,6 @@
 # git 사용법
 
-## 명령어
+## git 명령어
 - git에서 사용하는 기본적인 명령어들을 배웠다
 1. cd : 디렉토리 이동
 2. mkdir : 현재 디렉토리에 폴더 생성
@@ -11,9 +11,11 @@
 7. cat : 해당 하는 파일내용을 간단하게 출력
 8. ls : 현재 폴더에 있는 파일 목록 출력
 git add, git commit, git push, git status 
-9. :q : 
-10. :q! : 수정한 파일내용을 저장하지 않고 종료
-11. :w : 저장
-12. :wq : 저장하고 종료
-13. i : 내용을 정할 수 있는 Insert mode
-14. ESC : Insert mode에서 normal mode로 돌아감
+
+## vi 명령어
+1. :q : 종료 (저장x)
+2. :q! : 강제 종료(저장x)
+3. :w : 저장
+4. :wq : 저장하고 종료
+5. i : 내용을 정할 수 있는 Insert mode
+6. ESC : Insert mode에서 normal mode로 돌아감
